@@ -44,23 +44,45 @@ a {
 }
 
 
-.index h2 {
+h2 {
     font-family: 'Merienda One';
-    font-size: 60px;
     color: #E5DBDA;
     margin-left: 25px;
 }
 
-.index p {
+.index h2 {
+    font-size: 60px;
+}
+
+.services h2 {
+    font-size: 32px;
+}
+
+p, ul {
     font-family: 'IBM Plex Serif';
-    font-size: 30px;
     color: #E5DBDA;
     margin-left: 50px;
+    margin-right: 50px;
+}
+
+.index p {
+    font-size: 30px;
+}
+
+.services p {
+    font-size: 16px;
 }
 
 aside {
     text-align: center;
-    margin-top: 50px;
+}
+
+.index aside {
+    padding-top: 50px;
+}
+
+.services aside {
+    padding-top: 10px;
 }
 
 footer {
