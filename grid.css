@@ -1,0 +1,29 @@
+header {
+    grid-area: header;
+}
+
+nav {
+    grid-area: nav;
+}
+
+main {
+    grid-area: main;
+}
+
+aside {
+    grid-area: aside;
+}
+
+footer {
+    grid-area: footer;
+}
+
+body {
+    display: grid;
+    grid-template-areas:
+    'header header'
+    'nav nav'
+    'main aside'
+    'footer footer';
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
