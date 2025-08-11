@@ -43,10 +43,17 @@ a {
     font-size: 25px;
 }
 
+
 h2 {
+    font-family: 'Merienda One';
+    font-size: 40px;
     color: #E5DBDA;
+    margin-left: 15px;
 }
 
 p {
+    font-family: 'IBM Plex Serif';
+    font-size: 20px;
     color: #E5DBDA;
+    margin-left: 30px;
 }
