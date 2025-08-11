@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Merienda+One);
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Serif);
+
+body {
+    margin: 0;
+    background-color: #5D6D26;
+}
+
+header {
+    line-height: 160px;
+    background-color: #122208;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Merienda One';
+    text-align: center;
+    color: #A6B452;
+    margin: 0;
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+nav {
+    text-align: center;
+    background-color: #36341D;
+    line-height: 40px;
+    width: 600px;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: -20px;
+}
+
+a {
+    color: #E5DBDA;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 25px;
+}
+
+h2 {
+    color: #E5DBDA;
+}
+
+p {
+    color: #E5DBDA;
+}
