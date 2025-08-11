@@ -44,14 +44,14 @@ a {
 }
 
 
-h2 {
+.index h2 {
     font-family: 'Merienda One';
     font-size: 60px;
     color: #E5DBDA;
     margin-left: 25px;
 }
 
-p {
+.index p {
     font-family: 'IBM Plex Serif';
     font-size: 30px;
     color: #E5DBDA;
