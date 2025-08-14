@@ -89,6 +89,10 @@ aside {
     padding-top: 10px;
 }
 
+.contact aside {
+    padding-top: 50px;
+}
+
 footer {
     width: 100%;
     text-align: center;
@@ -100,3 +104,48 @@ footer {
     position: fixed;
     bottom: 0;
   }
+
+.icon {
+    color: #000000;
+    background-color: #BDD5F0;
+    border-style: solid;
+    border-color: #BDD5F0;
+    border-width: 5px;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+.contact p {
+    width: 250px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.contact main {
+    font-size: 20px;
+    text-align: center;
+}
+
+#address {
+    position: absolute;
+    top: 350px;
+    left: 200px;
+}
+
+#fax {
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
+
+#phone {
+    position: absolute;
+    top: 550px;
+    left: 200px;
+}
+
+#email {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
